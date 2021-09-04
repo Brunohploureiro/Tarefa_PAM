@@ -1,6 +1,6 @@
 {
-  "name": "PWA",
-  "short_name": "PWA",
+  "name": "Central_Esportes",
+  "short_name": "CE",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#fff",
